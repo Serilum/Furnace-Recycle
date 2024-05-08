@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="furnacerecycle"
-version="2.2"
+version="2.3"
 displayName="Furnace Recycle"
 displayURL="https://serilum.com/mod/furnace-recycle"
 authors="Rick South"
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.furnacerecycle]]
     modId="collective"
     mandatory=true
-    versionRange="[7.55,)"
+    versionRange="[7.57,)"
     ordering="NONE"
     side="BOTH"
 
