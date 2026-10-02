@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "id": "furnacerecycle",
-  "version": "2.7",
+  "version": "2.8",
 
   "name": "Furnace Recycle",
   "description": "Makes all metal-containing items in the game recyclable in a furnace.",
-  "authors": [ "Rick South" ],
+  "authors": [ "Serilum" ],
   "contact": {
     "homepage": "https://serilum.com/mod/furnace-recycle",
     "sources": "https://github.com/Serilum/Furnace-Recycle",
@@ -16,14 +16,14 @@
   "icon": "icon.png",
 
   "environment": "*",
-  "entrypoints": { "main": [ "com.natamus.furnacerecycle.ModFabric" ] },
+  "entrypoints": { "main": [ "com.serilum.furnacerecycle.ModFabric" ] },
 
   "depends": {
     "fabricloader": ">=0.18.0",
     "fabric-api": "*",
     "minecraft": ">=26.3",
     "java": ">=25",
-    "collective": ">=8.39"
+    "collective": ">=8.40"
   },
 
   "custom": {
@@ -38,7 +38,7 @@
 	  " ",
 	  "Thank you very much to my Membership sponsors for supporting the development of this mod!",
 	  " ",
-	  "If you would like to contribute too, check out https://serilum.com/donate.",
+	  "If you would like to contribute too, check out https://serilum.com/donate",
 	  " ",
 	  "Membership sponsors:",
 	  " Andrean Olgo",

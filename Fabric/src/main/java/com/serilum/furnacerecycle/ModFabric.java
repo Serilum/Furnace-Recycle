@@ -1,8 +1,8 @@
-package com.natamus.furnacerecycle;
+package com.serilum.furnacerecycle;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.furnacerecycle.util.Reference;
+import com.serilum.furnacerecycle.util.Reference;
 import net.fabricmc.api.ModInitializer;
 
 public class ModFabric implements ModInitializer {
