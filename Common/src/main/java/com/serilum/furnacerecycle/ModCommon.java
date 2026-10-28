@@ -1,4 +1,4 @@
-package com.natamus.furnacerecycle;
+package com.serilum.furnacerecycle;
 
 
 public class ModCommon {
